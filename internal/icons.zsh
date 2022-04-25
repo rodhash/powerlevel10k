@@ -229,10 +229,10 @@ function _p9k_init_icons() {
         VCS_BRANCH_ICON                '\uF126 '              # 
         VCS_REMOTE_BRANCH_ICON         '\u2192'               # →
         VCS_LOADING_ICON               ''
-        VCS_GIT_ICON                   '\uF1D3 '              # 
-        VCS_GIT_GITHUB_ICON            '\uF113 '              # 
+        VCS_GIT_ICON                   '\ueb00 '              # 
+        VCS_GIT_GITHUB_ICON            '\ueb00 '              # 
         VCS_GIT_BITBUCKET_ICON         '\uF171 '              # 
-        VCS_GIT_GITLAB_ICON            '\uF296 '              # 
+        VCS_GIT_GITLAB_ICON            '\uF296 '              # 
         VCS_HG_ICON                    '\uF0C3 '              # 
         VCS_SVN_ICON                   'svn'$q
         RUST_ICON                      '\uE6A8'               # 
@@ -497,10 +497,10 @@ function _p9k_init_icons() {
         VCS_BRANCH_ICON                '\uF126 '              # 
         VCS_REMOTE_BRANCH_ICON         '\uE728 '              # 
         VCS_LOADING_ICON               ''
-        VCS_GIT_ICON                   '\uF1D3 '              # 
-        VCS_GIT_GITHUB_ICON            '\uF113 '              # 
+        VCS_GIT_ICON                   '\ueb00 '              # 
+        VCS_GIT_GITHUB_ICON            '\ueb00 '              # 
         VCS_GIT_BITBUCKET_ICON         '\uE703 '              # 
-        VCS_GIT_GITLAB_ICON            '\uF296 '              # 
+        VCS_GIT_GITLAB_ICON            '\uF296 '              # 
         VCS_HG_ICON                    '\uF0C3 '              # 
         VCS_SVN_ICON                   '\uE72D'$q             # 
         RUST_ICON                      '\uE7A8'$q             # 
